@@ -1,12 +1,25 @@
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=007ACC&width=600&lines=Hi%2C+I'm+Marwan+Abdelwahab+👋;Front-End+Developer+%7C+React.js+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Apps+with+AI+%26+Creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=007ACC&width=650&lines=Hi%2C+I'm+Marwan+Abdelwahab+👋;Front-End+Developer+%7C+React.js+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Apps+with+AI+%26+Creativity)](https://git.io/typing-svg)
 
 ---
 
 ### 💻 About Me  
 
-I'm a passionate **Front-End Engineer** specializing in **React.js**, **Next.js**, and **TypeScript**, with experience crafting scalable and responsive web applications.  
-I focus on clean architecture, smooth user experience, and using **AI tools** to enhance development speed and creativity.  
+I'm a passionate **Front-End Engineer** specializing in **React.js**, **Next.js**, and **TypeScript**, with a focus on building scalable and responsive web applications.  
+I care deeply about clean UI, maintainable code, and using **AI tools** to work smarter and create modern, high-quality digital experiences.
+
+---
+
+### 🧠 AI-Enhanced Development  
+
+I use cutting-edge **AI tools** to speed up development, improve code quality, and explore creative problem-solving.
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=google&logoColor=fff)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor-2D3748?logo=visualstudiocode&logoColor=61DAFB)
+
+> *Blending AI assistance with human creativity to build better, faster, and smarter.*
 
 ---
 
