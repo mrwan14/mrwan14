@@ -42,8 +42,8 @@ I use cutting-edge **AI tools** to speed up development, improve code quality, a
 ## 🚀 Featured Projects  
 
 ### 🏢 [TankList](https://tanklist.com/)
-A large-scale marketplace platform for listing, buying, selling, and franchising across multiple industries.  
-**Stack:** React.js, Next.js, TypeScript, Tailwind CSS  
+A global marketplace platform built with Next.js and TypeScript, powered by Strapi CMS for managing dynamic business listings and scalable content.
+**Stack:** React.js, Next.js, TypeScript, Tailwind CSS, Strapi
 **Highlights:** Implemented advanced data filtering and modular architecture, achieving high scalability and fast load times.  
 
 ---
