@@ -55,7 +55,7 @@ A one-page modern website for a software agency offering web and app solutions.
 
 ---
 
-### 🧠 [Aura Space](#)
+### 🧠 [Aura Space](https://github.com/mrwan14/aura-space-showcase/tree/main/images)
 Workspace management system for tracking clients, payments, and analytics.  
 **Stack:** React.js, TypeScript, REST APIs  
 **Highlights:** Delivered an intuitive admin dashboard with data recording, reports, and analysis features.  
